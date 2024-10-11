@@ -15,7 +15,8 @@ also a React Native + Expo front-end, with a Flask backend.
 We won **1st place** for the software solutions track of creating solutions for existing systems.
 
 [2500words](https://github.com/MagnetMan103/2500words) 📗  
-This is a chrome extension that helps you expand your vocabulary in a foreign language. It
+This is a downloadable [chrome extension](https://chromewebstore.google.com/detail/oofdlpnfhhbepaebanohecbocjmbkfmd?hl=en&authuser=0) 
+that helps you expand your vocabulary in a foreign language. It
 saves your unknown words from a website and allows you to train them until you master them.
 It supports 12 of the most popular languages currently. This is a personal project that I made
 because I wanted to get better at French. 
