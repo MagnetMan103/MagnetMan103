@@ -1,16 +1,27 @@
-## Hi there 👋
+## My projects
 
-<!--
-**MagnetMan103/MagnetMan103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Nocturne](https://github.com/MagnetMan103/Nocturne) 🎵   
+This was a submission for the 2024 Big Red Hacks Hackathon. It
+is a mobile app that creates an instrumental song based on the
+user's mood. I used React Native + Expo to make the front-end, and 
+I connected it to a Flask backend (that my awesome teammates made). 
+We got **2nd place** in the general best solutions to the Hackathon's theme
+of lifestyle.
 
-Here are some ideas to get you started:
+[Vividly](https://github.com/MagnetMan103/Vividly) 👀  
+This was a submission for the 2024 RCareWorld Hackathon. It's an app 
+to help people with alzheimers remember important events in their life. It was
+also a React Native + Expo front-end, with a Flask backend.
+We won **1st place** for the software solutions track of creating solutions for existing systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[2500words](https://github.com/MagnetMan103/2500words) 📗  
+This is a chrome extension that helps you expand your vocabulary in a foreign language. It
+saves your unknown words from a website and allows you to train them until you master them.
+It supports 12 of the most popular languages currently. This is a personal project that I made
+because I wanted to get better at French. 
+
+[DebateFlow](https://github.com/MagnetMan103/debateflow) 📝  
+This a deployed [website](https://debateflow.vercel.app/) used for making debate 'flows' (the structure for
+taking notes in a debate round). I made this because I wanted a more convenient solution for creating and tracking 
+my flows from judging debate rounds. It was made using the T3 stack (basically React + NextJS). Flows are also
+stored locally on the user's browser to be revisited later. 
